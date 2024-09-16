@@ -1,0 +1,28 @@
+main{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.gatalogoDesc, .gatalogoInvite{
+    width: 80%;
+    font-weight: 500;
+    color: #502a03;
+    font-size: 25px;
+}
+.gatalogoInvite{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+}
+.gatalogoInvite h1{
+    width: fit-content;
+    color: #ebb764;
+    background-color: #502a03;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 0 10px;
+}

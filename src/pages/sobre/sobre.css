@@ -1,0 +1,13 @@
+.sobreContent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    max-width: 1200px;
+    min-width: 350px;
+    margin: 2em 0;
+}
+.sobreContent h1{
+    text-align: center;
+}

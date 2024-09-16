@@ -1,0 +1,18 @@
+.card{
+    max-width: 310px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;   
+    background-color: rgb(233, 233, 233);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.card img{
+    margin: 10px 10px 0 10px;
+    max-width: 100%;
+}
+.card .cardContent{
+    display: flex;
+    justify-content: center;
+    padding: 0 10px;
+    color: black;
+}

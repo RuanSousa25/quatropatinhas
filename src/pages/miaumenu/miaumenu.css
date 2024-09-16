@@ -1,0 +1,15 @@
+.miaumenuContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    max-width: 1200px;
+    min-width: 350px;
+    padding: 2em 0;
+}
+.miaumenuContent a{
+    background-color: #ebb764;
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-align: center;
+}
