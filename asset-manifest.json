@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quatropatinhas/static/css/main.1e7d115d.css",
-    "main.js": "/quatropatinhas/static/js/main.397a7294.js",
+    "main.js": "/quatropatinhas/static/js/main.38a31d7d.js",
     "static/js/453.c566171a.chunk.js": "/quatropatinhas/static/js/453.c566171a.chunk.js",
     "static/media/divulgacao.jpg": "/quatropatinhas/static/media/divulgacao.0c934c034d2269b5767f.jpg",
     "static/media/elvira.jpg": "/quatropatinhas/static/media/elvira.1f94b3b71bb81247f0af.jpg",
@@ -16,11 +16,11 @@
     "static/media/wave.svg": "/quatropatinhas/static/media/wave.ea93c30fa1a87bee020a.svg",
     "index.html": "/quatropatinhas/index.html",
     "main.1e7d115d.css.map": "/quatropatinhas/static/css/main.1e7d115d.css.map",
-    "main.397a7294.js.map": "/quatropatinhas/static/js/main.397a7294.js.map",
+    "main.38a31d7d.js.map": "/quatropatinhas/static/js/main.38a31d7d.js.map",
     "453.c566171a.chunk.js.map": "/quatropatinhas/static/js/453.c566171a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e7d115d.css",
-    "static/js/main.397a7294.js"
+    "static/js/main.38a31d7d.js"
   ]
 }
