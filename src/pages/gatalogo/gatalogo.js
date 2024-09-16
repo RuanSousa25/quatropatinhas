@@ -8,6 +8,8 @@ import lisa from "../../assets/lisa.jpg";
 import elvira from "../../assets/elvira.jpg";
 import cenourinha from "../../assets/cenourinha.jpg";
 import tijolinho from "../../assets/tijolinho.jpg";
+import maria from "../../assets/maria.jpg";
+import jojo from "../../assets/jojo.jpg";
 
 export default function Gatalogo(){
     return (
@@ -22,6 +24,8 @@ export default function Gatalogo(){
            <Card title="Lisa" description="12/09/2021" img={lisa}/>
            <Card title="Elvira" description="28/07/2020" img={elvira}/>
            <Card title="Cenourinha" description="28/07/2020" img={cenourinha}/>
+           <Card title="Jojo" description="28/07/2020" img={jojo}/>
+           <Card title="Maria" description="28/07/2020" img={maria}/>
            <div className="gatalogoInvite">
                <h1> Inspire-se e ajude a transformar mais vidas!</h1>
            </div>
