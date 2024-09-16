@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quatropatinhas/static/css/main.1e7d115d.css",
-    "main.js": "/quatropatinhas/static/js/main.2417e2e9.js",
+    "main.js": "/quatropatinhas/static/js/main.7961ad56.js",
     "static/js/453.c566171a.chunk.js": "/quatropatinhas/static/js/453.c566171a.chunk.js",
     "static/media/divulgacao.jpg": "/quatropatinhas/static/media/divulgacao.0c934c034d2269b5767f.jpg",
     "static/media/elvira.jpg": "/quatropatinhas/static/media/elvira.1f94b3b71bb81247f0af.jpg",
@@ -10,17 +10,19 @@
     "static/media/miaumenu.jpg": "/quatropatinhas/static/media/miaumenu.d7248803477871191899.jpg",
     "static/media/lisa.jpg": "/quatropatinhas/static/media/lisa.d24db86bea0f774e576b.jpg",
     "static/media/anakin.jpg": "/quatropatinhas/static/media/anakin.edcca7e9bc31bae656fd.jpg",
+    "static/media/jojo.jpg": "/quatropatinhas/static/media/jojo.cfdd918d74f30fe668cd.jpg",
+    "static/media/maria.jpg": "/quatropatinhas/static/media/maria.00850e5cb89669f68f32.jpg",
     "static/media/tijolinho.jpg": "/quatropatinhas/static/media/tijolinho.562770ceec036fb89041.jpg",
     "static/media/logo.png": "/quatropatinhas/static/media/logo.49981935e74044e637c7.png",
     "static/media/mike.jpg": "/quatropatinhas/static/media/mike.ec1c67e08b441851dd34.jpg",
     "static/media/wave.svg": "/quatropatinhas/static/media/wave.ea93c30fa1a87bee020a.svg",
     "index.html": "/quatropatinhas/index.html",
     "main.1e7d115d.css.map": "/quatropatinhas/static/css/main.1e7d115d.css.map",
-    "main.2417e2e9.js.map": "/quatropatinhas/static/js/main.2417e2e9.js.map",
+    "main.7961ad56.js.map": "/quatropatinhas/static/js/main.7961ad56.js.map",
     "453.c566171a.chunk.js.map": "/quatropatinhas/static/js/453.c566171a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e7d115d.css",
-    "static/js/main.2417e2e9.js"
+    "static/js/main.7961ad56.js"
   ]
 }
