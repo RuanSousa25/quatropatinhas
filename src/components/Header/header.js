@@ -24,16 +24,16 @@ export default function Header(){
                     Quatro <span>Patinhas</span></p></div>
                 <nav>
                     <div>
-                        <NavLink className="link" to="/quatropatinhas/">Início</NavLink>
+                        <NavLink className="link" to="/">Início</NavLink>
                     </div>
                     <div>
-                        <NavLink className="link" to="/quatropatinhas/miaumenu">Miaumenu</NavLink>
+                        <NavLink className="link" to="/miaumenu">Miaumenu</NavLink>
                     </div>
                     <div>
-                        <NavLink className="link" to="/quatropatinhas/gatalogo">Gatálogo</NavLink>
+                        <NavLink className="link" to="/gatalogo">Gatálogo</NavLink>
                     </div>
                     <div>
-                        <NavLink className="link" to="/quatropatinhas/sobre">Sobre</NavLink>
+                        <NavLink className="link" to="/sobre">Sobre</NavLink>
                     </div>
                 </nav>
                 <div className={`barMenu ${isSideBarActive? 'notOpen':''}`} onClick={toggleSideBar}>

@@ -6,16 +6,18 @@ import Gatalogo from './pages/gatalogo/gatalogo';
 import Home from './pages/Home/home';
 import Sobre from './pages/sobre/sobre';
 
+
+const basename = "/quatropatinhas";
 function App() {
   return (
     <div className="App">
-     <BrowserRouter>
+     <BrowserRouter basename={basename}>
         <Header/>
           <Routes>
-            <Route path='/quatropatinhas/' element={<Home/>}/>
-            <Route path='/quatropatinhas/miaumenu' element={<Miaumenu/>}/>
-            <Route path='/quatropatinhas/gatalogo' element={<Gatalogo/>}/>
-            <Route path='/quatropatinhas/sobre' element={<Sobre/>}/>
+            <Route path='/' element={<Home/>}/>
+            <Route path='/miaumenu' element={<Miaumenu/>}/>
+            <Route path='/gatalogo' element={<Gatalogo/>}/>
+            <Route path='/sobre' element={<Sobre/>}/>
           </Routes>
      </BrowserRouter>
     </div>

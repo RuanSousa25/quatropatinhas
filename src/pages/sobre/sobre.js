@@ -17,7 +17,7 @@ export default function Sobre(){
             A Cafeteria Quatro Patinhas nasceu da paixão de 8 amigos por café e gatos. Inspirados pelo desejo de ajudar animais em situação de rua, criamos um espaço onde as pessoas podem relaxar, tomar um bom café e interagir com gatinhos que precisam de um lar. O projeto cresceu com o apoio da comunidade, e hoje, além de servir bebidas deliciosas, contribuímos para abrigos e adoção responsável.
             </h1>
             <button onClick={()=>{
-                gotTo("/quatropatinhas/")
+                gotTo("/")
             }}>Voltar a explorar</button>
         </div>
     )
